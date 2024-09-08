@@ -1,0 +1,4 @@
+vendor
+composer.lock
+database.sqlite
+.home
